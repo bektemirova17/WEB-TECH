@@ -1,9 +1,6 @@
 # WEB-TECH
 
-Bektemirova Aruzhan
-Kuanyshbek Akmaral
-Oralkhanova Zhadyra
-Shyngyskhan Nazerke
+Bektemirova Aruzhan, Kuanyshbek Akmaral, Oralkhanova Zhadyra, Shyngyskhan Nazerke
 
 *Ski and snowboard rental. 
 
